@@ -3,7 +3,9 @@
 > [] in progress
 <details>
   <summary> Читы (Perfomance \ Graphics) </summary>
-  > [60FPS v1.1 (Hold R button for 30FPS)]
+  
+    > [60FPS v1.1 (Hold R button for 30FPS)]
+    
     D3000000 08000000
     00E44330 42700000
     DD000000 00000100
@@ -11,91 +13,88 @@
     D0000000 00000000
 {Codes by @Hazerou}
 
-> [60FPS v1.1]
-  D3000000 08000000
-  00E44330 42700000
-  D2000000 00000000
+    > [60FPS v1.1]
+    
+    D3000000 08000000
+    00E44330 42700000
+    D2000000 00000000
 {Codes by @Hazerou}
 
-> [30FPS v1.1]
-  D3000000 08000000
-  00E44330 41F00000
-  D2000000 00000000
+    > [30FPS v1.1]
+      D3000000 08000000
+      00E44330 41F00000
+      D2000000 00000000
 {Codes by @Hazerou}
 
 [++Extras++]
 
-> [Game Speed Faster v1.1]
-  D3000000 08000000
-  00E4432C 42F00000
-  D2000000 00000000
+    > [Game Speed Faster v1.1]
+      D3000000 08000000
+      00E4432C 42F00000
+      D2000000 00000000
 {Codes by @Hazerou}
 
-> [Game Speed Normal v1.1]
-  D3000000 08000000
-  00E4432C 42700000
-  D2000000 00000000
+    > [Game Speed Normal v1.1]
+      D3000000 08000000
+      00E4432C 42700000
+      D2000000 00000000
 {Codes by @Hazerou}
 
-> [Game Speed Slower v1.1]
-  D3000000 08000000
-  00E4432C 41F00000
-  D2000000 00000000
+    > [Game Speed Slower v1.1]
+      D3000000 08000000
+      00E4432C 41F00000
+      D2000000 00000000
 {Codes by @Hazerou}
 
-> [Default Rendering v1.1]
-  D3000000 08000000
-  0018B648 001F076E
-  D2000000 00000000
+    > [Default Rendering v1.1]
+      D3000000 08000000
+      0018B648 001F076E
+      D2000000 00000000
 {Codes by @Hazerou}
 
-> [Disable FSAA Type-1 v1.1]
-  D3000000 08000000
-  1018B648 0000036E
-  D2000000 00000000
+    > [Disable FSAA Type-1 v1.1]
+      D3000000 08000000
+      1018B648 0000036E
+      D2000000 00000000
 {Codes by @Hazerou}
 
-> [Disable FSAA Type-2 v1.1]
-  D3000000 08000000
-  2018B648 0000002E
-  D2000000 00000000
-{Disables 3D Slider.
-Codes by @Hazerou}
+    [Disable FSAA Type-2 v1.1]
+    D3000000 08000000
+    2018B648 0000002E
+    D2000000 00000000
+    
+    [No Dithering v1.1]
+    D3000000 08000000
+    2018B64A 0000000F
+    D2000000 00000000
 
-> [No Dithering v1.1]
-  D3000000 08000000
-  2018B64A 0000000F
-  D2000000 00000000
-{Codes by @Hazerou}
+    [Disable FSAA (2nd Screen) v1.1]
+    D3000000 08000000
+    2018B649 00000043
+    D2000000 00000000
 
-> [Disable FSAA (2nd Screen) v1.1]
-  D3000000 08000000
-  2018B649 00000043
-  D2000000 00000000
-{Codes by @Hazerou}
+    [Trinity Disabler v1.1]
+    D3000000 08000000
+    0018B648 000F432E
+    D2000000 00000000
+Disable AA, No Dithering, Disable AA (2nd Screen).
 
-> [Trinity Disabler v1.1]
-  D3000000 08000000
-  0018B648 000F432E
-  D2000000 00000000
-{Disable AA, No Dithering, Disable AA (2nd Screen).
-Codes by @Hazerou}
 
 </details>
 <details>
   <summary> QOL </summary>
   > 
   
-> [Enable Equipment Box in Gathering Hub v1.1]
-  009EC838 E3A06000
+    [Enable Equipment Box in Gathering Hub v1.1]
+    009EC838 E3A06000
   
-> [Change Equipment in Hall L+UP]
-  DD000000 00000200
-  B0EDBE90 00000000
-  2000E8BE 00000004
-  2000E8BE 00000005
-  2000E8BE 00000006
-  D2000000 00000000
+    [Change Equipment in Hall L+UP]
+    DD000000 00000200
+    B0EDBE90 00000000
+    2000E8BE 00000004
+    2000E8BE 00000005
+    2000E8BE 00000006
+    D2000000 00000000
 
 </details>
 
