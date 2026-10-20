@@ -1,6 +1,6 @@
 ![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUHSITjrUe86tp6_5BkpnzkIU4N_hWPkSnO5-vfwZ1YibImGTvsMlIVb4A&s=10)
 
-> [] in progress
+> [ ] in progress
 <details>
   <summary> Читы (Perfomance \ Graphics) </summary>
   
